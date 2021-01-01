@@ -11,12 +11,12 @@ lilygo-epd47结合了墨水屏和 ESP32. 这二个模块都具有休眠唤醒节
 
 以下是支持以上功能的基础软件，仅实际了非常基础的简单功能，有待改进。
 
-1.esp32_wssocketserver_epd47   
+1.esp32_wssocketserver_epd47    <br/>
    esp32源码，webSocket协议服务端，接收客户端文字信息并显示
    循环滚动显示6行英文或汉字信息, 以汉字场景为主
    有3个按键，分别能存储，清空，装入当前的汉字信息
 
-2.client_demo
+2.client_demo <br/>
    发送文字信息给esp32 lilygo-epd47 墨水屏并显示。
    python 客户端调用示例，websocket不限于python环境
    应用可能场景:
