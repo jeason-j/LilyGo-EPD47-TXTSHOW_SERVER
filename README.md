@@ -20,7 +20,7 @@ lilygo-epd47结合了墨水屏和 ESP32的特点. 这二模块都具有休眠唤
 2.client_demo <br/>
    发送文字信息给esp32 lilygo-epd47 墨水屏并显示。 <br/>
    python 客户端调用示例，websocket不限于python环境 <br/>
-   应用可能场景: <br/>
+   预期应用场景如下: <br/>
    1.homeassistant 做成ink_show插件,当homeassistant需要显示文字时发送信息 <br/>
    2.微信公众号    当用户进入公众号,触发功能菜单，发送语音或文字 <br/>
    3.智能音箱      当识别用户有提到'备注'，'记事', '备忘'等关键词开始发送文字 <br/>
@@ -29,5 +29,5 @@ lilygo-epd47结合了墨水屏和 ESP32的特点. 这二模块都具有休眠唤
  <img src= 'https://raw.githubusercontent.com/lixy123/LilyGo-EPD47-TXTSHOW_SERVER/main/img_showink.jpg' />
  
 示例已经过调试，可运行。
-上层应用场景已做了一些尝试，如要搭建平台可能需要更多专业知识点。
+上层应用场景已做了一些尝试，如要搭建平台需要更多专业知识点。
 
