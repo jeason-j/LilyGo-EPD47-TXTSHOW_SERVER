@@ -1,5 +1,5 @@
 # LilyGo-EPD47-TXTSHOW_SERVER
-LilyGo-EPD47 以SOCKER服务接收文字并显示，用于接收homeassistant,智能音箱等发来的信息并显示
+LilyGo-EPD47 接收客户端发送文字并显示至墨水屏，用于接收homeassistant,智能音箱等发来的信息并显示
 
 用lilygo-epd47实现文字信息推送的基础软件示例 <br/>
 
