@@ -26,6 +26,8 @@ lilygo-epd47结合了墨水屏和 ESP32的特点. 这二模块都具有休眠唤
    3.智能音箱      当识别用户有提到'备注'，'记事', '备忘'等关键词开始发送文字 <br/>
    4.MQTT信息转发  根据MQTT协议将信息转发,适合无直接公网的内网IP接发信息 <br/>
 
+ <img src= 'https://raw.githubusercontent.com/lixy123/LilyGo-EPD47-TXTSHOW_SERVER/main/img_showink.jpg' />
+ 
 示例已经过调试，可运行。
 上层应用场景已做了一些尝试，搭建需要了解更多知识点。
 
