@@ -1,5 +1,5 @@
 # LilyGo-EPD47-TXTSHOW_SERVER
-LilyGo-EPD47 接收客户端发送文字并显示至墨水屏，可对接homeassistant,智能音箱，微信公众号，MQTT等来源信息.
+LilyGo-EPD47 接收客户端发送文字并显示至墨水屏，可对接homeassistant,智能音箱，微信公众号，MQTT 作为从属设备
 
 用lilygo-epd47实现文字信息推送的基础软件示例 <br/>
 
